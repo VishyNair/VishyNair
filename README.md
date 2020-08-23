@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 😄 My name is Vishak. I am a 27 year old IT professional based out of Bangalore,India.<br>
+- I hold a Post Graduate Diploma in Data Science and a Bachelors Degree in Electronics and Communication Engineering. <br>
+- I currently work as a Data Engineer within my current organisation and consider myself a learner to the world of data. <br>
 <!--
 **VishyNair/VishyNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
